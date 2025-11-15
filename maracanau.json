@@ -1,0 +1,286 @@
+{
+  "cidade": "Maracanaú",
+  "bairros": [
+    {
+      "nome": "Pajuçara",
+      "ruas": [
+        "Rua 15",
+        "Rua 12",
+        "Rua 10",
+        "Rua 05",
+        "Rua 07",
+        "Rua 18",
+        "Rua 21",
+        "Rua 02",
+        "Rua 19",
+        "Rua 09",
+        "Rua José Dias",
+        "Rua Projetada 03",
+        "Rua Projetada 06",
+        "Rua Alto Alegre",
+        "Rua do Meio",
+        "Rua São José",
+        "Rua Nossa Senhora da Conceição",
+        "Rua São Francisco"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Pajuçara",
+          "endereco": "Rua São José, 90"
+        }
+      ]
+    },
+    {
+      "nome": "Jari",
+      "ruas": [
+        "Rua Manoel Pereira",
+        "Rua Antônio Lopes",
+        "Rua São João",
+        "Rua Projetada 02",
+        "Rua Projetada 04",
+        "Rua Doutor Mendonça",
+        "Rua 01",
+        "Rua 03",
+        "Rua 09",
+        "Rua 14",
+        "Rua 22",
+        "Rua Santa Luzia",
+        "Rua Nova Esperança",
+        "Rua Nossa Senhora das Graças",
+        "Rua do Mercado"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS José Teodósio",
+          "endereco": "Rua do Sol, 200"
+        }
+      ]
+    },
+    {
+      "nome": "siqueira",
+      "ruas": [
+        "Rua Adalberto malveira",
+        "Rua Jari",
+        "Rua Barroso",
+        "Rua Jaçanaú",
+        "Rua Avilan",
+        "Rua Nezita cabral",
+        "Rua Barros cavalho",
+        "Rua Atibaia",
+        "Rua Pereira silva",
+        "Rua Francisco xavier",
+        "Rua Monteiro lobato",
+        "Rua Santo antonio",
+        "Rua Siqueira campos"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Alarico leite",
+          "endereco": "Rua Patativa do assare 34"
+        }
+      ]
+    },
+    {
+      "nome": "Novo Maracanaú",
+      "ruas": [
+        "Rua José Miguel Silva",
+        "Rua Raimundo Vieira",
+        "Rua 09",
+        "Rua 03",
+        "Rua 11",
+        "Rua 18",
+        "Rua Projetada 01",
+        "Rua Projetada 09",
+        "Rua Projetada 10",
+        "Avenida Central",
+        "Rua Nossa Senhora de Fátima",
+        "Rua São Pedro",
+        "Rua 06",
+        "Rua 13",
+        "Rua Santo Antônio",
+        "Rua 17",
+        "Rua Padre Cícero"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Novo Maracanaú",
+          "endereco": "Av. Nova, 150"
+        }
+      ]
+    },
+    {
+      "nome": "Acaracuzinho",
+      "ruas": [
+        "Rua Manoel Lopes",
+        "Rua 04",
+        "Rua 09",
+        "Rua 11",
+        "Rua 02",
+        "Rua 19",
+        "Rua 22",
+        "Rua 33",
+        "Avenida Central",
+        "Rua Nossa Senhora Auxiliadora",
+        "Rua São Miguel",
+        "Rua São Cristóvão",
+        "Rua 15",
+        "Rua 31",
+        "Rua José de Alencar",
+        "Rua Pedro Gomes",
+        "Rua José Holanda"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Acaracuzinho",
+          "endereco": "Rua da Alegria, 180"
+        }
+      ]
+    },
+    {
+      "nome": "Timbó",
+      "ruas": [
+        "Rua 16",
+        "Rua 19",
+        "Rua 02",
+        "Rua 21",
+        "Rua 05",
+        "Rua 12",
+        "Rua 14",
+        "Rua 08",
+        "Rua Projetada 01",
+        "Rua Projetada 07",
+        "Rua da Torre",
+        "Rua do Trilho",
+        "Rua 27",
+        "Rua 06",
+        "Rua 30",
+        "Rua Santa Tereza",
+        "Rua Nossa Senhora das Dores",
+        "Rua Padre Cícero"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS João Flávio",
+          "endereco": "Rua Primavera, 75"
+        }
+      ]
+    },
+    {
+      "nome": "Luzardo Viana",
+      "ruas": [
+        "Rua Principal",
+        "Rua 03",
+        "Rua 06",
+        "Rua 09",
+        "Rua 11",
+        "Rua 18",
+        "Rua 15",
+        "Rua 22",
+        "Rua Projetada",
+        "Rua Nossa Senhora do Rosário",
+        "Rua São Vicente",
+        "Rua José de Oliveira",
+        "Rua Alto da Alegria",
+        "Rua Santa Cecília",
+        "Rua Francisco Miguel"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Luzardo Viana",
+          "endereco": "Av. Central, 50"
+        }
+      ]
+    },
+    {
+      "nome": "Parque Santana",
+      "ruas": [
+        "Rua 10",
+        "Rua 08",
+        "Rua 04",
+        "Rua 02",
+        "Rua 16",
+        "Rua 07",
+        "Rua 20",
+        "Rua 27",
+        "Rua 33",
+        "Rua da Paz",
+        "Rua Frei Damião",
+        "Rua Nossa Senhora do Carmo",
+        "Rua São João",
+        "Rua do Campo",
+        "Rua 13",
+        "Rua 17"
+      ]
+    },
+    {
+      "nome": "Mucunã",
+      "ruas": [
+        "Rua São Sebastião",
+        "Rua 02",
+        "Rua 01",
+        "Rua Projetada 03",
+        "Rua Projetada 07",
+        "Rua Pedro Gomes",
+        "Rua 05",
+        "Rua 11",
+        "Rua 19",
+        "Rua 22",
+        "Rua Nossa Senhora Aparecida",
+        "Rua São José",
+        "Rua Santo Amaro",
+        "Rua 14",
+        "Rua 27"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Mucunã",
+          "endereco": "Rua das Acácias, 30"
+        }
+      ]
+    },
+    {
+      "nome": "Conjunto Industrial",
+      "ruas": [
+        "Avenida C",
+        "Rua B",
+        "Rua Projetada 01",
+        "Rua Projetada 02",
+        "Rua D",
+        "Rua 09",
+        "Rua 13",
+        "Rua José Rodrigues",
+        "Rua do Galpão",
+        "Rua 11",
+        "Rua 17",
+        "Avenida das Indústrias",
+        "Rua 24",
+        "Rua 22",
+        "Rua 25"
+      ],
+      "ubs": [
+        {
+          "nome": "UBS Conjunto Industrial",
+          "endereco": "Av. do Trabalho, 210"
+        }
+      ]
+    },
+    {
+      "nome": "Alto da Mangueira",
+      "ruas": [
+        "Rua 02",
+        "Rua 04",
+        "Rua 13",
+        "Rua 17",
+        "Rua 09",
+        "Rua 11",
+        "Rua 18",
+        "Rua 22",
+        "Rua Projetada 05",
+        "Rua Projetada 02",
+        "Rua Santa Luzia",
+        "Rua Nossa Senhora das Graças",
+        "Rua São Vicente"
+      ]
+    }
+  ]
+}

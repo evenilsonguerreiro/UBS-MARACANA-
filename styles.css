@@ -1,0 +1,49 @@
+header img{
+    width: 300px; 
+    margin-left: 35%;
+     
+}
+header{
+    background-color: rgb(61, 207, 233);
+    border-bottom: 2px solid white;
+}
+input{
+   text-transform: uppercase; 
+}
+body{
+    background-color: rgba(119, 164, 170, 0.616);
+}
+#res{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+   
+}
+#res2{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+@media (max-width:767px){
+    .container{
+        max-width: 90%;
+    }
+    
+    #res ,#res2{
+        font-size: 12px;
+    }
+    header img{
+        width: 180px;
+        margin-left: 15%;
+        
+    }
+    .btn {
+        width: 100%;
+    }
+    
+    
+}
