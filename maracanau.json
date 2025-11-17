@@ -210,6 +210,12 @@
         "Rua do Campo",
         "Rua 13",
         "Rua 17"
+      ],
+      "ubs": [
+        {
+          "nome": " ubs parque santana",
+          "endereco": "Avenida Luiz , S/N"
+        }
       ]
     },
     {
@@ -280,6 +286,12 @@
         "Rua Santa Luzia",
         "Rua Nossa Senhora das Graças",
         "Rua São Vicente"
+      ],
+      "ubs": [
+        {
+          "nome": " ubs Alto da Mangueira",
+          "endereco": "Avenida Luiz Pereira Lima, S/N"
+        }
       ]
     }
   ]
