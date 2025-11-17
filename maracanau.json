@@ -25,7 +25,7 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Pajuçara",
+          "nome": " Pajuçara",
           "endereco": "Rua São José, 90"
         }
       ]
@@ -51,7 +51,7 @@
       ],
       "ubs": [
         {
-          "nome": "UBS José Teodósio",
+          "nome": " José Teodósio",
           "endereco": "Rua do Sol, 200"
         }
       ]
@@ -75,7 +75,7 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Alarico leite",
+          "nome": " Alarico leite",
           "endereco": "Rua Patativa do assare 34"
         }
       ]
@@ -103,8 +103,8 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Novo Maracanaú",
-          "endereco": "Av. Nova, 150"
+          "nome": "Dr. Aparício Bezerra / AVISA V",
+          "endereco": "Rua 13, 300"
         }
       ]
     },
@@ -131,8 +131,8 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Acaracuzinho",
-          "endereco": "Rua da Alegria, 180"
+          "nome": " USF Acaracuzinho",
+          "endereco": "Av. José Antenor Pinheiro (Lateral Norte), S/N"
         }
       ]
     },
@@ -160,8 +160,8 @@
       ],
       "ubs": [
         {
-          "nome": "UBS João Flávio",
-          "endereco": "Rua Primavera, 75"
+          "nome": "Almir Dutra (Timbó) / AVISA II",
+          "endereco": "Rua 125, 396"
         }
       ]
     },
@@ -186,8 +186,8 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Luzardo Viana",
-          "endereco": "Av. Central, 50"
+          "nome": " Luzardo Viana",
+          "endereco": "Avenida Luiz Pereira Lima, S/N"
         }
       ]
     },
@@ -234,7 +234,7 @@
       "ubs": [
         {
           "nome": "UBS Mucunã",
-          "endereco": "Rua das Acácias, 30"
+          "endereco": "Rua Wauvires Valentim, S/N"
         }
       ]
     },
@@ -259,7 +259,7 @@
       ],
       "ubs": [
         {
-          "nome": "UBS Conjunto Industrial",
+          "nome": " Conjunto Industrial",
           "endereco": "Av. do Trabalho, 210"
         }
       ]

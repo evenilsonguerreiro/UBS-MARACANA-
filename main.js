@@ -45,7 +45,7 @@ async function verificar() {
             res.innerHTML = `
                 <div class="alert alert-success">
                     <h4>Resultado Encontrado ✔</h4>
-                    <p><b>${nomeInput}</b>, sua rua <b>${ruaEncontrada}</b> pertence ao bairro:</p>
+                    <p><b>${nomeInput}</b>, Sua unidade de Saúde Fica <b></b></p>
                     <h5><b>${bairroEncontrado}</b></h5>
                     ${ubsHtml}
                 </div>
